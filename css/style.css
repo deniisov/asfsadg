@@ -173,6 +173,7 @@ img {
 }
 
 .presentation__title {
+  font-family: "Patrick Hand";
   text-align: center;
   font-size: 90px;
   color: #fff;
